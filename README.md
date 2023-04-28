@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DubsG
-- 👀 I’m interested in web abd app deveolopment with Devops
+- 👀 I’m interested in web and app deveolopment with Devops
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on life changing projects 
 - 📫 How to reach me gichuhigeorge041@gmail.com
